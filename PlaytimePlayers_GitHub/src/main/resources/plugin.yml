@@ -1,0 +1,7 @@
+name: PlaytimePlayers
+main: me.anya.playtimeplayers.PlaytimePlayers
+version: 1.0
+api-version: 1.13
+author: Anya
+description: Tracks and displays total playtime with weeks, days, hours, and minutes.
+softdepend: [PlaceholderAPI]
